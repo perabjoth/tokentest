@@ -1,0 +1,24 @@
+{
+  "name": "My Token List",
+  "timestamp": "2021-06-16T19:27:15.683Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 67
+  },
+  "tags": {},
+  "logoURI": "ipfs://auhuifhasuidfhsuidhfiusdhf",
+  "keywords": [
+    "default"
+  ],
+  "tokens": [
+    {
+      "name": "AMASA",
+      "address": "0xc4d6d290bf5f28278fe30f5e28b0a482eac330f0",
+      "symbol": "AMAS",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11924.png"
+    } 
+	]
+}
